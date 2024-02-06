@@ -1,0 +1,9 @@
+---
+title: "Photos"
+page-layout: full
+fig-cap-location: bottom
+---
+
+![Sam Ventura, Vice President of Hockey Strategy and Research for the Buffalo Sabres, speaks to club members](ventura.jpeg){fig-alt="Sam ventura speaks to the club"}
+
+
