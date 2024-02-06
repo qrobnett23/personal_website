@@ -1,0 +1,67 @@
+---
+title: "2023–24 New York Rangers Season Preview"
+description: "New coach, new faces, new success? "
+author: "David Gold"
+date: 10-11-2023
+image: rangers.png
+draft: false
+twitter-card: 
+  image: "rangers.png"
+fig-cap-location: bottom
+
+---
+
+![](rangers.png){fig-alt="Rangers celebrate in a dog pile"}
+
+Just over three years ago the New York Rangers won the 2020 NHL Draft Lottery, earning the right to select highly touted prospect Alexis Lafrenière and cementing themselves as a team to watch for the future. Two years later, it seemed as though the team had realized its potential, as the Rangers made the NHL Playoffs proper for the first time in 5 years, and reached Conference Final. Despite losing to the Lightning in 6 games, the fanbase had almost nothing negative to say about the season, and it felt like the Rangers would continue to contend for years to come. Just over a year later, however, the narrative seems to have flipped. The Rangers are looked at as an old team nearing the end of their contention window, with a new coach trying to salvage whatever he can out of its core.  
+
+So what happened?
+
+Well on paper, last season was only a slight step back from their conference final year, putting up 107 points (compared to 110 in 2021–22) and losing in the first round to a team with a better record than them. On its own, this doesn’t seem like a cause for concern, especially considering they finished the year strong after a slow start, with the fourth highest points total since December 5, and they shared a division with the second and third best teams point-wise in the regular season. The lack of faith from the general public in the Rangers to right the ship this season, in my opinion, comes down to two factors: recency bias, and loss of talent in the roster.  
+
+**Recency Bias:** It’s no surprise that the more postseason success a team has, the better their outlook on the next season is. After all, out of the 16 teams that participate in a given postseason, 15 will be left with an elimination as their most recent memory. With the Rangers, the effects of recency bias are especially strong, as after two commanding wins on the road, they essentially didn’t show up for four of the next five games, bowing out with an embarrassing 4–0 defeat in a Game 7 that looked to be going New Jersey’s way as soon as the puck dropped. Because of this, the 2023 Rangers will be remembered as the team that let the Devils walk all over them in a winnable series, rather than one of the league’s hottest teams in the second half of the season.
+
+
+![](dissapointed.jpg){fig-alt="Adam Fox diissapointed after a Devils goal"}
+
+To further prove the extent recency bias determines a the general opinion of a team we can look at a team on the other end of the spectrum: the Florida Panthers. For most of last season the Panthers were the league’s biggest disappointments, going from Presidents Trophy Winners to the outside looking in on the playoff picture. Then they went on a massive run to end the season and snuck into the East’s last playoff spot by one point, continuing a Cinderella run all the way to the Stanley Cup Final, knocking out the greatest NHL regular season team of all time along the way. Currently, the Panthers are looked at as a playoff lock, and a potential Atlantic Division winner. While I agree that they are still a quality team, I have a hard time believing they would get the same positive attention had they missed the playoffs last year, or even if they had lost to Boston in the first round.
+
+**Loss of Talent:** The far more plausible reason for the Rangers to regress this year is the fact that all their quality talent they added over the past two seasons is gone. In 2022, Frank Vatrano was an outstanding cheap get that added a great scoring punch to the top line, and Andrew Copp was the quality right winger that Artemi Panarin needed. In 2023, the Rangers added two huge names in Vladimir Tarasenko and Patrick Kane to form what many fans considered a “superteam”, while Niko Mikkola became a solid third line partner for young defenseman Braden Schneider. Tyler Motte was acquired by the Rangers at both trade deadlines, but was unable to come to an agreement with the team in each subsequent offseason. All these names are now off the team. Patrick Kane currently remains a free agent, however it would take some cap gymnastics to get him back on the roster with the amount of money he’d command.
+
+![New York Rangers 2022 and 2023 Trade Deadline Acquisitions and their New Teams](acqurie.webp){fig-alt="Rangers 2022 and 2023 trade deadline acquisitions and their new teams. Frank Vatrano - Ducks. Andrew Copp - Red Wings. Vladimir Tarasenko - Senators. Patrick Kane - NHL. Niko Mikkola - Panthers. Tyler Motte - Lightning"}
+
+Despite all this, the Rangers are still left with a pretty solid Opening Night roster; what I would consider to be the best lineup the Rangers have started a season with under this current core. According to Rangers reporter Vince Mercogliano, the Rangers are looking at this roster for their first game in Buffalo tomorrow night under new coach Peter Laviolette:
+
+Chris Kreider — Mika Zibanejad — Kaapo Kakko  
+Artemi Panarin — Filip Chytil — Alexis Lafrenière  
+Will Cuylle — Vincent Trocheck — Blake Wheeler  
+Barclay Goodrow — Nick Bonino — Tyler Pitlick  
+
+Ryan Lindgren — Adam Fox  
+K’Andre Miller — Jacob Trouba  
+Erik Gustafsson — Braden Schnedier  
+
+Igor Shesterkin  
+Jonathan Quick  
+
+This is definitely a new look, so I’ll go over every new face here:
+
+**Blake Wheeler:** He’s essentially the “Great Value” version of what Kane and Tarasenko were last year; a strong veteran winger who can put up points and be a great complement to a line. Fans have expressed their concerns over his age and lack of speed, but his value to the team comes in his contract. After being bought out by his former club in Winnipeg, Wheeler was willing to sign a cheap one year deal with a contending team, as he’d still make some money from his Jets contract and would become a UFA next offseason, when the salary cap is expected to shoot up. The end result was a 1 year, \$800K contract that allowed the Rangers to add the full-season quality right wing behind Kaapo Kakko they’ve desperately needed since trading Pavel Buchnevich in 2021. You’d be hard-pressed to find a better option than Wheeler at \$800K. He should work nicely as a complement to Artemi Panarin and a veteran presence for the Rangers’ youngsters, while bolstering a second power play unit that has rarely made an impact for the team.
+
+![](blake.webp){fig-alt="Blake Wheeler ready for a faceoff"}
+**Erik Gustafsson:** Another excellent bargain for the Rangers at a position of need, Gustafsson is coming off a career year where he stepped up big time in the absence of John Carlson during his time with the Capitals, and became one of the Maple Leafs’ all-in acquisitions at the deadline. Over the past few years, the Rangers have struggled to start the season with a quality third pairing left defenseman. Early season 3LDs have included Patrik Nemeth, Jarred Tinordi, Libor Hajek, and Zac Jones. Three players that were not popular amongst the fanbase and one prospect who has struggled to find consistent playing time in the majors. In the past, the Rangers have filled this hole at the deadline with Justin Braun and Niko Mikkola, but Gustafsson should have a higher upside than both of them, standing alongside a promising defensive prospect in Braden Schneider.
+
+![](erik.jpg){fig-alt="Erik Gustafsson goes through the fist bump line"}
+**Will Cuylle:** Arguably the biggest question mark for the Rangers leading up to the season was which prospect would make the Opening Night roster between 2020 second round pick Will Cuylle and 2021 first round pick Brennan Othmann. Both seemed to exceed expectations during preseason and it seemed as if there was space for one of them on the main roster leading up to the season. Ultimately, Cuylle won the honor, with Othmann being sent down for some seasoning in AHL Hartford. From a development perspective, this makes sense, as Cuylle played a few games in the majors last season and Othmann hasn’t played a professional season yet. Cuylle failed to pick up any points in his 4 NHL games last year, but put up 2 goals and 1 assist in 5 games this preseason, while getting some looks with top 6 players like Vincent Trocheck and Blake Wheeler. Cuylle breaking out would be huge for a team that has struggled to develop forward prospects, however it’s very likely that unless he greatly exceeds expectations he will be replaced via trade later in the season and sent back down to Hartford for more seasoning.
+
+![](will.webp){fig-alt="Will Cullye takes a shot"}
+**Nick Bonino/Tyler Pitlick:** Two veterans brought in to fit the Tyler Motte mold. Bonino brings cup winning veteran experience and solid defensive center play, while Pitlick is a career journeyman who had a solid year in St. Louis last year. Neither should provide too much offensive impact, with Bonino’s offense especially falling off a cliff in recent years, but they should both be part of a solid fourth line carousel with Barclay Goodrow and Jimmy Vesey, with one player rotating out depending on form.
+
+**Jonathan Quick:** Given their cap crunch the past two seasons, the Rangers have opted to go for cheap one year rentals at backup goaltender. After Alexandar Georgiev was shipped off to Colorado in 2022, Jaroslav Halak was brought in to back up reigning Vezina Trophy winner Igor Shesterkin. After an extremely shaky start, he became a solid option in net, ending the season with a respectable .903 save percentage in 25 games. Jonathan Quick, who Rangers fans may remember not so fondly from their 2014 Stanley Cup Final loss to the LA Kings, was brought in on a cheaper deal to take his place. Quick is coming off a disastrous 2022–23 campaign where he put up a career low .882 save percentage and was dumped off after 16 seasons in LA. The Rangers are hoping for a similar rebound to Halak, but barring an injury to Shesterkin, Quick shouldn’t play too many games.
+
+**Alexis Lafrenière/Kaapo Kakko/Filip Chytil:** While they’re not new faces, its important to talk about these three as for about the third season in a row, the Rangers ability to truly challenge for a Stanley Cup hinges on them taking the next step towards becoming the stars they were once expected to be. As it stands, Lafrenière is the only one in the group to not have a true “breakout” campaign. Chytil had an outstanding 2022 playoffs, putting up 9 points in 20 games which included a 3 game stretch where he put up 5 goals against Carolina and Tampa. He followed this up with a 45 point 2023 that almost doubled his previous career high. Kakko also put up career highs in 2023, with 18 goals, 22 assists, and 40 points in 82 games. The latter of which is arguably the most impressive considering his injury-riddled 2022. While he hasn’t been the elite point producer that was expected of him, he’s developed a strong defensive and possession game, highlighted by him putting up a CF% above 50% every season of his career. Lafrenière also had his best season based on points last year, but he has hovered around .40-.50 points per game throughout his career, with no true “breakout” season so far. Public opinion of Lafrenière really shifted after he put up 0 points in 7 playoff games last year, and the pressure is truly on him this year to perform to the standard he had set when he was the first overall pick in 2020.
+
+So with everything covered about the past, present, and future of the 2023–24 New York Rangers, what is a realistic projection for them? It’s tough to see them challenging Carolina and New Jersey for a top 2 seed in the Metropolitan Division, and the retooled Pittsburgh Penguins should make the race for the 3 seed interesting. Outside of that, though, it’s tough to see another team overtaking the Rangers, especially in the Metro. Despite all the negative press, their floor should be a wild card spot. The goal this season should be to build an effective system under Peter Laviolette, while continuing the development of the team’s prospects. Ultimately, the team’s success hinges on how hot they can get in the spring, how their new additions can bolster the lineup, and how the team rebounds after a disastrous end to last season.
+
+
+![](peter.webp){fig-alt="Rangers head coach Peter Laviolette behind the bench"}
