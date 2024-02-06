@@ -2,9 +2,9 @@
 
 # website settings
 website:
-  title: "Syracuse University Hockey Analytics Club"                                # Your name
-  description: "A club for people who love hockey and numbers"   # A brief slogan (optional)
-  site-url: "https://su_hockeyclub.netlify.app/"
+  title: "Quinn Robnett"                                # Your name
+  description: "A personal website and blog"   # A brief slogan (optional)
+  site-url: "https://quinnrobnett.netlify.app/"
   image: img/my_image.jpg
   
   favicon: img/wordlogo_bluewhite.png
@@ -18,21 +18,21 @@ website:
     
     # your social media handles
     right:
-      - text: "Schedule"
-        href: schedule/index.qmd
-      - text: "Activities"
-        href: activities/index.qmd        
+      - text: "Resume"
+        href: resume/index.qmd
+      - text: "CV"
+        href: cv/index.qmd        
       - text: "Blog"
         href: blog/index.qmd
-      - text: "Photos"
-        href: photography/index.qmd      
+      - text: "Research"
+        href: research/index.qmd      
       - icon: twitter
-        href: https://twitter.com/su_hockeyclub
-      - icon: instagram
-        href: https://www.instagram.com/su_hockeyclub/       
+        href: https://twitter.com/qrobnett23
+      - icon: github
+        href: https://github.com/qrobnett23       
       - icon: envelope
         aria-label: email
-        href: "mailto:dbgold@syr.edu"  
+        href: "mailto:qprobnet@syr.edu"  
   
   
 
@@ -42,7 +42,7 @@ website:
     type: textbox
   page-footer: 
     right: |
-      <span class="faux-block"><a href="https://github.com/qrobnett23/suhac_website">View source on GitHub</a></span>
+      <span class="faux-block"><a href="https://github.com/qrobnett23/personal_website">View source on GitHub</a></span>
 
 project:
   type: website
