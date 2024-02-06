@@ -1,25 +1,23 @@
 ---
-title: "Main"
-format: html
+about:
+  template: jolla
+  id: about-block
+  image: "img/me.jpg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/qrobnett23
+    - icon: github
+      text: Github
+      href: https://github.com/qrobnett23  
+    - icon: envelope
+      text: Email
+      href: "mailto:qprobnet@syr.edu"  
 ---
 
-## Quarto
+::: {#about-block}
+:::
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+# About Me
 
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 23
-```
-
-You can add options to executable code like this 
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+About me
